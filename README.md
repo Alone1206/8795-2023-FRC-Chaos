@@ -21,3 +21,7 @@ Checklist: https://github.com/Alone1206/8795-2023-FRC-Chaos/blob/main/2023-inspe
 Spark library: https://software-metadata.revrobotics.com/REVLib-2023.json
 
 Talon library: https://maven.ctr-electronics.com/release/com/ctre/phoenix/Phoenix5-frc2023-latest.json
+
+Talon Debug: https://github.com/Alone1206/8795-talon-debug
+
+Spark Debug: https://github.com/Alone1206/Spark-debug-8795
