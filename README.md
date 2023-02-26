@@ -14,7 +14,7 @@ Takım Kaptanı: Ahmet Cevdet Özgenç
 
 Robot Kütlesi:
 
-Robot Boyutları: Yükseklik max 1.27 metre
+Robot Boyutları: Yükseklik max 1.37 metre
 
 Checklist: https://github.com/Alone1206/8795-2023-FRC-Chaos/blob/main/2023-inspection-checklist.pdf v2
 
